@@ -1,1 +1,2 @@
-# Python-Project
+# Project Overview
+This project analyzes a Diwali sales dataset to uncover customer purchasing behavior, highlight sales trends, and provide actionable business insights. By leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, we perform data cleaning, exploratory data analysis (EDA), and visualization to better understand sales performance during the Diwali festival season.
